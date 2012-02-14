@@ -1,0 +1,7 @@
+# LogBook
+
+Logbook is a command line interface to a log book database.
+
+## Features
+
+- All logged information is stored in ~/.logbook
